@@ -1,6 +1,6 @@
 # npmdoc-deamdify
 
-#### api documentation for  [deamdify (v0.3.0)](https://github.com/jaredhanson/deamdify#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-deamdify.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-deamdify) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-deamdify.svg)](https://travis-ci.org/npmdoc/node-npmdoc-deamdify)
+#### basic api documentation for  [deamdify (v0.3.0)](https://github.com/jaredhanson/deamdify#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-deamdify.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-deamdify) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-deamdify.svg)](https://travis-ci.org/npmdoc/node-npmdoc-deamdify)
 
 #### Browserify transform that converts AMD to CommonJS.
 

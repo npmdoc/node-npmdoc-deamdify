@@ -1,4 +1,4 @@
-npmdoc-deamdify@0.0.1 /home/travis/build/npmdoc/node-npmdoc-deamdify
+npmdoc-deamdify@2017.4.23 /home/travis/build/npmdoc/node-npmdoc-deamdify
 └─┬ browserify@14.3.0 
   ├── assert@1.4.1 
   ├─┬ browser-pack@6.0.2 
